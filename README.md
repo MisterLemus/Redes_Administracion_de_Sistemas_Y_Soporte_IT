@@ -9,6 +9,10 @@
 Me especializo en la **gestión, optimización y seguridad de servidores y redes empresariales**.  
 
 Este repositorio refleja mis **habilidades, conocimientos y proyectos**, brindando una visión clara de mis capacidades técnicas y mi enfoque en la **resolución de problemas**.  
+## 🎥 Tutorial de Administración de Hyper-V
+[![Ver en YouTube](https://img.youtube.com/vi/Rau4m1wT6nc/hqdefault.jpg)](https://www.youtube.com/watch?v=Rau4m1wT6nc)
+## 📺 **Sígueme en YouTube**
+[![YouTube](https://img.shields.io/badge/YouTube-Suscribirse-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SeguridadInformaticaMrWvhite)
 
 ---
 
