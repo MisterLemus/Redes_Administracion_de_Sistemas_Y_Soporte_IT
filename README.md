@@ -1,4 +1,4 @@
-# 🖥️ Redes y Administración de Sistemas Linux & Windows 🌍  
+# 🖥️ Redes, Administración de Sistemas & Soporte IT 🌍  
 🚀 **Perfil Profesional**
 
 <p align="center">
